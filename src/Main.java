@@ -18,6 +18,7 @@ public class Main {
 		System.out.println("How much was paid?");
 		double payment=in.nextDouble();
 		//TODO: Here is where your code goes
+		double change=payment-cost;
 	}
 
 }
